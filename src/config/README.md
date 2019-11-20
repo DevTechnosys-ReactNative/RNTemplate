@@ -1,3 +1,3 @@
 # RNTemplate
 
-This Folder contains all confiq variables of application.
+This Folder contains all config variables of application.
