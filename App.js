@@ -18,7 +18,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          HelloWorld Template
+          Hello React Native
         </Text>
       </View>
     );
