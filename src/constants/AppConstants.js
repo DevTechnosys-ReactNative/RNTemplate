@@ -7,7 +7,4 @@
  */
 
 export const AppConstants = {
-  auth: {},
-  app: {},
-  button: {},
 };
