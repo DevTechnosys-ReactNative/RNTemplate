@@ -1,8 +1,9 @@
 # React Native Template By Devtechnosys
-React Native Template For Basic Structure of application with minimum required pakages.
+
+React Native Template Devtechnosys contain's a basic structure of project/application folders which gives you least startup time for react native projects.
 
 		
-Install as follows for template structure in project:
+# Installation for project structure
 
 	npx react-native init <project_name> --template devtechnosys
 											
